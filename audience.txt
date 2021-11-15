@@ -1,3 +1,6 @@
 WHO THIS COURSE IS FOR 
-=====================
+
 This course is for anyone who wants to learn Git. 
+
+Imagination is more important than knowledge. Knowledge is limited,
+imagination encircle the world.
